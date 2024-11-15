@@ -5,7 +5,7 @@ from telebot.types import InlineKeyboardButton,InlineKeyboardMarkup
 import requests
 from bs4 import BeautifulSoup
 
-Token = "7563115866:AAFYLn8fVp5INjDGVjJ9-QoAK78rYRV8FvI"
+Token = ""
 bot = telebot.TeleBot(token=Token)
 
 users = []
